@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Shakil
 
-<!--
-**shakilahmed14133/shakilahmed14133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakilahmed14133)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100018900671151)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17947102)  
 
-Here are some ideas to get you started:
+<p align=center>
+ <img height="140px"  src="https://github-readme-stats.vercel.app/api?username=shakilahmed14133&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="140px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmed14133&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![shakil's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shakilahmed14133&theme=react-dark&hide_border=true&area=true)](https://git.io/shakilahmed14133)
+
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakilahmed14133&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)     
+<!--  Metrics Bar -->
+![GitHub metrics](https://metrics.lecoq.io/shakilahmed14133)
+<!--  Profile Views -->
+![Profile views](https://gpvc.arturio.dev/shakilahmed14133)  
