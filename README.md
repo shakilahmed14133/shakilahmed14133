@@ -2,10 +2,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakilahmed14133)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100018900671151)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17947102)  
 
-<p align=center>
- <img height="140px"  src="https://github-readme-stats.vercel.app/api?username=shakilahmed14133&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="140px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmed14133&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
-  </p>
+
 
 [![shakil's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shakilahmed14133&theme=react-dark&hide_border=true&area=true)](https://git.io/shakilahmed14133)
 
