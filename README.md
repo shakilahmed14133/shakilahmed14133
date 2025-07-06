@@ -1,14 +1,43 @@
-### Hi there 👋, I'm Shakil
+<h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
+<h3 align="center">A passionate Problem Solver from Bangladesh</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakilahmed14133)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100018900671151)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17947102)  
+## 🏆 Achievements
+- **Puipil** - Codeforces ([Profile](https://codeforces.com/profile/shakil..ahmed))
+- **3-Star Coder** - CodeChef ([Profile](https://www.codechef.com/users/shakil_141))
+- **Problem-Solving-Badge** - LeetCode ([Profile](https://leetcode.com/medal/?showImg=0&id=7240921&isLevel=false))
+- **500+ Problems Solved** across Codeforces, CodeChef, LeetCode, Atcoder, and more.
+
+## 💻 Skills
+### **Technical Skills**
+- **Programming Languages:** C, C++, Python, Java, HTML, CSS, JavaScript
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Competitive Programming, Database Management
+- **Tools & Technologies:** Git, GitHub, Microsoft Office (Excel, Word, PowerPoint)
+
+### **Soft Skills**
+- Teamwork
+- Time Management
+- Critical Thinking
+- Adaptability
+- Communication
 
 
 
-[![shakil's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shakilahmed14133&theme=react-dark&hide_border=true&area=true)](https://git.io/shakilahmed14133)
+## 📫 **How to reach me :** **ahmedshakil111065@gmail.com**
 
-<!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakilahmed14133&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)     
-<!--  Metrics Bar -->
-![GitHub metrics](https://metrics.lecoq.io/shakilahmed14133)
-<!--  Profile Views -->
-![Profile views](https://gpvc.arturio.dev/shakilahmed14133)  
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/farhanyousuf20" target="blank"><img align="center" src="https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshakil-ahmed-2214a51aa%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app&h=AT2_R7NPCaMvlqBIGT7rAXifEQj26isTCam2PTSQz91woT8sO2Gxn7fPY6SA6nr8l1w58Pvi39ZZ0WhbxkAEKYjQ6dcUKXEdIJAmaT8yv4CSayo6VwkASaPjXSR_mFSNLWxAbw /></a>
+<a href="https://www.codechef.com/users/farhan20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="farhan20" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/farhan20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farhan20" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/farhan20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhan20" height="30" width="40" /></a>
+</p>
+
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanyousuf20&show_icons=true&locale=en&layout=compact" alt="farhanyousuf20" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanyousuf20&show_icons=true&locale=en" alt="farhanyousuf20" /></p>
+
+
+🌟 **"Keep coding, keep growing!"**
