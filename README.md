@@ -26,10 +26,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/farhanyousuf20" target="blank"><img align="center" src="https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshakil-ahmed-2214a51aa%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app&h=AT2_R7NPCaMvlqBIGT7rAXifEQj26isTCam2PTSQz91woT8sO2Gxn7fPY6SA6nr8l1w58Pvi39ZZ0WhbxkAEKYjQ6dcUKXEdIJAmaT8yv4CSayo6VwkASaPjXSR_mFSNLWxAbw /></a>
-<a href="https://www.codechef.com/users/farhan20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="farhan20" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/farhan20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farhan20" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/farhan20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhan20" height="30" width="40" /></a>
+<a href="https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshakil-ahmed-2214a51aa%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app&h=AT2_R7NPCaMvlqBIGT7rAXifEQj26isTCam2PTSQz91woT8sO2Gxn7fPY6SA6nr8l1w58Pvi39ZZ0WhbxkAEKYjQ6dcUKXEdIJAmaT8yv4CSayo6VwkASaPjXSR_mFSNLWxAbw" target="blank"><img align="center" src="https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshakil-ahmed-2214a51aa%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app&h=AT2_R7NPCaMvlqBIGT7rAXifEQj26isTCam2PTSQz91woT8sO2Gxn7fPY6SA6nr8l1w58Pvi39ZZ0WhbxkAEKYjQ6dcUKXEdIJAmaT8yv4CSayo6VwkASaPjXSR_mFSNLWxAbw /></a>
+<a href="https://www.codechef.com/users/shakil_141" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="farhan20" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shakil..ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farhan20" height="30" width="40" /></a>
+<a href="https://leetcode.com/ahmedshakil111065/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhan20" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
